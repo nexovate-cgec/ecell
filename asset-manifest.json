@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecell/static/css/main.1a7cc0dc.css",
-    "main.js": "/ecell/static/js/main.956914c0.js",
+    "main.js": "/ecell/static/js/main.709bfedc.js",
     "static/js/453.b7549a3b.chunk.js": "/ecell/static/js/453.b7549a3b.chunk.js",
     "static/media/5.png": "/ecell/static/media/5.25c3a62a54cf5c171e8d.png",
     "static/media/etalk.png": "/ecell/static/media/etalk.13bf4538c97ee1903b7f.png",
@@ -14,8 +14,8 @@
     "static/media/6.png": "/ecell/static/media/6.12f8c3c35c2f2481868e.png",
     "static/media/12.webp": "/ecell/static/media/12.c0f7f2e501f26036e76d.webp",
     "static/media/11.jpg": "/ecell/static/media/11.731455c74999c62376aa.jpg",
+    "static/media/eurecaa.jpg": "/ecell/static/media/eurecaa.ca9ee439e42f111c1735.jpg",
     "static/media/4.jpeg": "/ecell/static/media/4.6ee11988666fbe50996d.jpeg",
-    "static/media/eureca.jpeg": "/ecell/static/media/eureca.49bdef42bc57caed89be.jpeg",
     "static/media/about-ecell.jpeg": "/ecell/static/media/about-ecell.927428617a59e6635837.jpeg",
     "static/media/nec.jpeg": "/ecell/static/media/nec.3d0b9549c66a4ddd49e8.jpeg",
     "static/media/2.jpeg": "/ecell/static/media/2.75edba0011ac8d08fb43.jpeg",
@@ -31,11 +31,11 @@
     "static/media/15.jpg": "/ecell/static/media/15.1dc280ca4abb5317890a.jpg",
     "index.html": "/ecell/index.html",
     "main.1a7cc0dc.css.map": "/ecell/static/css/main.1a7cc0dc.css.map",
-    "main.956914c0.js.map": "/ecell/static/js/main.956914c0.js.map",
+    "main.709bfedc.js.map": "/ecell/static/js/main.709bfedc.js.map",
     "453.b7549a3b.chunk.js.map": "/ecell/static/js/453.b7549a3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a7cc0dc.css",
-    "static/js/main.956914c0.js"
+    "static/js/main.709bfedc.js"
   ]
 }
