@@ -18,7 +18,7 @@ const events = [
     date: "Coming soon...",
     description: "Eureca is conducted by IIT B",
     image: Eureca,
-    src: "#",
+    src: "https://www.instagram.com/p/DNA86MbS093/?igsh=MTdxMnpzamVycXVrdg==",
   },
 ];
 
