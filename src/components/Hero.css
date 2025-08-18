@@ -36,8 +36,24 @@
 
 .hero-image {
   max-width: 100%;
+  border-radius: 15px;
+  
+  box-shadow: -4px 4px 10px rgb(10, 68, 64);
   height: auto;
   animation: float 3s ease-in-out infinite;
+}
+
+.hero-logo {
+  max-height: 90px; 
+  border-radius: 50%;  
+  box-shadow: -4px 4px 10px rgb(203, 197, 197);
+  width: auto;
+}
+
+@media (max-width: 576px) {
+  .hero-logo {
+    max-height: 40px; 
+  }
 }
 
 

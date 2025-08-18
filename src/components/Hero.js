@@ -1,12 +1,32 @@
 import React from 'react';
 import { Button, Container, Row, Col } from 'react-bootstrap';
 import './Hero.css';
-import heroImage from '../assets/images/about-ecell.jpeg'; 
+import heroImage from '../assets/images/team.jpg'; 
+import collegeLogo from '../assets/images/cgec.jpeg'; 
+import nexovateLogo from '../assets/images/logo.png'; 
 
 const Hero = () => {
   return (
     <div className="hero-split d-flex align-items-center">
       <Container>
+
+        <Row className="align-items-center mb-4">
+          <Col xs={6} className="text-start">
+            <img 
+              src={collegeLogo} 
+              alt="College Logo" 
+              className="hero-logo"
+            />
+          </Col>
+          <Col xs={6} className="text-end">
+            <img 
+              src={nexovateLogo} 
+              alt="Nexovate Logo" 
+              className="hero-logo"
+            />
+          </Col>
+        </Row>
+
         <Row className="align-items-center">
           <Col md={6} className="text-center text-md-start">
             <h1 className="hero-title">

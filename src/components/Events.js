@@ -16,7 +16,7 @@ const events = [
   {
     title: "EUREKA 2025",
     date: "Aug 16, 2025",
-    description: "Eureca is conducted by IIT B",
+    description: "Eureca is conducted by CGEC",
     image: Eureca,
     src: "https://www.instagram.com/p/DNA86MbS093/?igsh=MTdxMnpzamVycXVrdg==",
   },
