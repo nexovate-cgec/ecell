@@ -1,7 +1,7 @@
 
 import React from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
-import Eureca from "../assets/images/eureca.jpeg";
+import Eureca from "../assets/images/eurecaa.jpg";
 import Nec from "../assets/images/nec.jpeg";
 
 const events = [
@@ -15,7 +15,7 @@ const events = [
   },
   {
     title: "EUREKA 2025",
-    date: "Coming soon...",
+    date: "Aug 16, 2025",
     description: "Eureca is conducted by IIT B",
     image: Eureca,
     src: "https://www.instagram.com/p/DNA86MbS093/?igsh=MTdxMnpzamVycXVrdg==",
