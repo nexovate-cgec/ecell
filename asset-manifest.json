@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecell/static/css/main.7d2856ac.css",
-    "main.js": "/ecell/static/js/main.1589bc76.js",
+    "main.js": "/ecell/static/js/main.aff3af17.js",
     "static/js/453.368c06aa.chunk.js": "/ecell/static/js/453.368c06aa.chunk.js",
     "static/media/etalk.png": "/ecell/static/media/etalk.13bf4538c97ee1903b7f.png",
     "static/media/startup-bootcamp.png": "/ecell/static/media/startup-bootcamp.d621e5114aaaa83bb5c9.png",
@@ -28,7 +28,6 @@
     "static/media/3.jpeg": "/ecell/static/media/3.61ef657e35c8231b8c1d.jpeg",
     "static/media/3.jpg": "/ecell/static/media/3.2a892a569e025189e3df.jpg",
     "static/media/14.jpeg": "/ecell/static/media/14.38af970c88b08afcceaf.jpeg",
-    "static/media/5.jpeg": "/ecell/static/media/5.8490c91759985dba181d.jpeg",
     "static/media/9.jpeg": "/ecell/static/media/9.7e0f0defacb789d190cd.jpeg",
     "static/media/8.jpg": "/ecell/static/media/8.33a7bb1e071ee51d463a.jpg",
     "static/media/7.jpeg": "/ecell/static/media/7.32b5b0b7fa6e8d07943d.jpeg",
@@ -46,11 +45,11 @@
     "static/media/cgec.jpeg": "/ecell/static/media/cgec.710b4ecadd00b65ba90f.jpeg",
     "index.html": "/ecell/index.html",
     "main.7d2856ac.css.map": "/ecell/static/css/main.7d2856ac.css.map",
-    "main.1589bc76.js.map": "/ecell/static/js/main.1589bc76.js.map",
+    "main.aff3af17.js.map": "/ecell/static/js/main.aff3af17.js.map",
     "453.368c06aa.chunk.js.map": "/ecell/static/js/453.368c06aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d2856ac.css",
-    "static/js/main.1589bc76.js"
+    "static/js/main.aff3af17.js"
   ]
 }
