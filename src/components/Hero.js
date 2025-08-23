@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button, Container, Row, Col } from 'react-bootstrap';
 import './Hero.css';
-import heroImage from '../assets/images/team.jpg'; 
+import heroImage from '../assets/images/full_team.jpg'; 
 import collegeLogo from '../assets/images/cgec.jpeg'; 
 import nexovateLogo from '../assets/images/logo.png'; 
 
