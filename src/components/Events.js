@@ -3,6 +3,8 @@ import React from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import Eureca from "../assets/images/eurecaa.jpg";
 import Nec from "../assets/images/nec.jpeg";
+import Entrepreneurship from "../assets/images/Entrepreneurship.jpg";
+import social from "../assets/images/social.png";
 
 const events = [
   {
@@ -19,6 +21,20 @@ const events = [
     description: "Eureca is conducted by CGEC",
     image: Eureca,
     src: "https://www.instagram.com/p/DNA86MbS093/?igsh=MTdxMnpzamVycXVrdg==",
+  },
+  {
+    title: "Entrepreneurship Challenge 2025 🧠✨",
+    date: "Sept 3, 2025",
+    description: "🚀 Got ideas? Let’s solve big problems together!",
+    image: Entrepreneurship,
+    src: "https://docs.google.com/forms/d/e/1FAIpQLSdsepz_32xhRAHm7178TTUDOSBsrErk1D7BwLmdGhUDq8Vt0g/viewform?pli=1",
+  },
+  {
+    title: "SOCIAL MEDIA EVENT🧠✨",
+    date: "Sept 6, 2025",
+    description: "Who knew 3 random words could make you the next Elon Musk? 🤯✨ Drop your wildest startup mashups & let the madness begin! 🚀🤣",
+    image: social,
+    src: "https://qr.me-qr.com/PiQ5rXDQ",
   },
 ];
 
